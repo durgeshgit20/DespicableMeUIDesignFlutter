@@ -1,6 +1,7 @@
 # despicable_me
 
-A new Flutter project.
+A new Flutter project. Some Basic UI Design and working around Custom Widgets.
+
 
 ## Getting Started
 
